@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className={styles.app}>
-      <Header />
+      <Header title = "My Profile Page"/>
 
       <div className={styles.cards}>
         <Card
